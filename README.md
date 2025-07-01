@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Automated Animations verze 5.1.4. O
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationAutomatedAnimations/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationAutomatedAnimations/Core12/module.json
 ```
 
 ## Autor
