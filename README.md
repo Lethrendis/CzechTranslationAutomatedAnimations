@@ -1,10 +1,10 @@
 
 # CzechAutomatedAnimations
 
-Czech translation of Automated Animations 5.1.4
+Czech translation of Automated Animations 6.0.2
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro Automated Animations verze 5.1.4. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro Automated Animations verze 6.0.2. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
