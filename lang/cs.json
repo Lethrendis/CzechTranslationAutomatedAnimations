@@ -85,7 +85,7 @@
             "overwriteWarn": "Přepsání smaže tvou stávající nabídku",
             "launchMenu": "Spustit nabídku",
             "menuName": "Globální nabídka automatického rozpoznání",
-            "menuHint": "Spustí globální nabídku Autorec. Nachází se zde také nastavení modulu Automatizované Animace",
+            "menuHint": "Spustí globální nabídku Automatického rozpoznání. Nachází se zde také nastavení modulu Automatizované Animace.",
             "hideTemplate_name": "Mřížky šablon po přejetí",
             "hideTemplate_hint": "Odstraní zvýraznění mřížky šablony, pokud není přejetá. MUSÍ být zakázáno zvýraznění Token Magic FX při přejetí.",
             "hoverInTemplateLayer": "Zobrazit po přejetí ve vrstvě šablon",
